@@ -1,0 +1,26 @@
+.body{
+    background-image: url(Presentation1.gif);
+    background-position: center;
+    background-size: cover;
+}
+
+#login {
+    font-family: 'Zen Tokyo Zoo', cursive;
+    background-color: white;
+    color: black;
+    border:ridge 5px aliceblue;
+    width: 600px;
+    height: 500px;
+    right:0px;
+    left: 300px;
+}
+
+#loginbtn {
+    font-family: 'Tourney', cursive;
+    color: white;
+}
+
+#h1 {
+    font-family: 'Festive', cursive;
+    color: white;
+}
